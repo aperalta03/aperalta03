@@ -17,9 +17,9 @@ I’m a passionate Software Engineer with a strong interest in new technologies 
 ## Featured Projects
 Here are some of my favorite projects:
 
-- [**Project 1**]([https://github.com/yourusername/project1](https://github.com/aperalta03/Foodie)) - Currently working with a small influencer with 20k on YouTube and 100k on Instagram to develop a platform to sell recipes on demand for a customizable cookbook for users. 
-- [**Project 2**]([https://github.com/yourusername/project2](https://github.com/aperalta03/customersupport)) - A simple finance-based chatbot to give you advice on your financial day-to-day decisions. It incorporates a fine-tuned model to give more human and accurate responses to different scenarios.
-- [**Project 3**]([https://github.com/yourusername/project3](https://github.com/aperalta03/inventorytracker)) - Developed a dashboard to centralize an inventory of any kind. Incorporated a chatbot that is fed with the inventory data, computer vision for item input through a camera, and analytics.
+- [**Foodie**]([https://github.com/yourusername/project1](https://github.com/aperalta03/Foodie)) - Currently working with a small influencer with 20k on YouTube and 100k on Instagram to develop a platform to sell recipes on demand for a customizable cookbook for users. 
+- [**Finance.ai**]([https://github.com/yourusername/project2](https://github.com/aperalta03/customersupport)) - A simple finance-based chatbot to give you advice on your financial day-to-day decisions. It incorporates a fine-tuned model to give more human and accurate responses to different scenarios.
+- [**Inventory Tracker**]([https://github.com/yourusername/project3](https://github.com/aperalta03/inventorytracker)) - Developed a dashboard to centralize an inventory of any kind. Incorporated a chatbot that is fed with the inventory data, computer vision for item input through a camera, and analytics.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aperalta03)
