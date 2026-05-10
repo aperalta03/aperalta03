@@ -1,33 +1,36 @@
-# Hi there, I'm Alonso Peralta 👋
+# Hi, I'm Alonso Peralta
 
-## About Me
-I’m a passionate Software Engineer with a strong interest in new technologies and traveling!. Recently I went to Europe and got a SWE internship there as well! I love learning about Software Engineering, AI/ML, Finance, Quantum Computing, Computer Hardware/Architecture, VR, AR, Robotics, and Computer Vision.
-- 🌱 I’m currently mastering my Full-stack skills.
-- 👯 I’m looking to collaborate on large-scale projects and mobile apps.
-- 💬 Ask me about my trips and experiences!
-- 📫 How to reach me: alonso.pe03@gmail.com.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I migrated to America about 4 years ago. I am a Peruvian born and raised.
+AI Software Engineer. AI got me because of impact: pick the right tool and a two-to-three-week document workflow drops to ten minutes. I've watched it happen. The work I keep coming back to is the kind that moves real numbers for real people.
 
-## Skills and Tools
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![CypherQL](https://img.shields.io/badge/-CypherQL-4D4D4D?style=flat&logo=neo4j&logoColor=white)
-- **Frameworks/Libraries**: ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+## Now
+- Lead AI Engineer at a stealth startup. I own the product AI roadmap and ship the services behind it.
+- Wrapping a B.S. in Computer Engineering at Texas A&M (May 2026). M.S. in Computer Science starts Fall 2026.
+- Based in Texas. Born in Peru, two years in Alaska before college, now in Aggieland.
+
+## Background
+- **Stealth Startup** · Shipped ExtractAI, an OCR + RAG document extraction service. Brought a two-to-three-week workflow down to ten minutes at 98% accuracy on Safety Datasheets. Promoted from AI Solutions Specialist to AI Software Engineer to Lead AI Engineer over sixteen months.
+- **Aggies Create × NeuroX1** · Co-led MedGet, a drug-candidate retrieval platform. Hybrid retrieval and RAG through LangChain. 5x faster data access, 62% lower cost per employee hour. Sponsor took it into production.
+- **OpenHub (Belgium)** · Sole developer on a 3D-printer-farm platform that 7x'd the team's parallel print capacity. React, Node, Python, Firebase.
+- **Headstarter Fellowship** · Four full-stack AI projects in three months. Mentors from Google, Meta, Apple, DoorDash. Founders and researchers from Stanford and Berkeley.
 
 ## Featured Projects
-Here are some of my favorite projects:
+- [**LLMRouter**](https://github.com/shantanold/LLMRouter) · Deep RL system that picks the right LLM per prompt, balancing cost and capability. Five agents (DQN, PPO, LinUCB, PickLLM, Greedy) trained on RouterBench, with feature-based and embedding-based variants and a Streamlit evaluation dashboard. CSCE 642 project, co-authored paper.
+- [**Wavelet for Hearts**](https://github.com/aperalta03/wavelets-for-hearts) · Wavelet-based singularity detection in ECG signals. Five wavelets across CWT and DWT pipelines, best F1 0.907 on QRS detection against the MIT-BIH Arrhythmia Database. Co-authored MATH 414 paper.
+- [**PrinterHub**](https://github.com/aperalta03/3D-Printer-Farm) · Full-stack platform to remotely manage a 3D-printer farm in Belgium. Took the team from a handful of printers in parallel to seven times that. React, Node, Python, Firebase.
 
-- [**Foodie**]([https://github.com/yourusername/project1](https://github.com/aperalta03/Foodie)) - Currently working with a small influencer with 20k on YouTube and 100k on Instagram to develop a platform to sell recipes on demand for a customizable cookbook for users. 
-- [**Finance.ai**]([https://github.com/yourusername/project2](https://github.com/aperalta03/customersupport)) - A simple finance-based chatbot to give you advice on your financial day-to-day decisions. It incorporates a fine-tuned model to give more human and accurate responses to different scenarios.
-- [**Inventory Tracker**]([https://github.com/yourusername/project3](https://github.com/aperalta03/inventorytracker)) - Developed a dashboard to centralize an inventory of any kind. Incorporated a chatbot that is fed with the inventory data, computer vision for item input through a camera, and analytics.
+More work, papers, and writing live on [alonsoperalta.com](https://alonsoperalta.com).
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aperalta03)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://www.alonsoperalta.com)
-[![Resume](https://img.shields.io/badge/-Resume-4D4D4D?style=flat&logo=resume&logoColor=white)](https://www.dropbox.com/scl/fi/8lnk0xl204775ln7q4xr5/Resume-5.0-2024.pdf?rlkey=64zdmju2i2gtx1df0dvvojj9y&st=lz7xinan&dl=0)
+## Stack
+- **Languages** · JavaScript · TypeScript · Python · C++ · SQL · Ruby · Cypher
+- **Cloud / DevOps** · GCP · AWS · Docker · Terraform · CI/CD
+- **AI / ML** · LangChain · LangGraph · Pinecone · RAG · OCR · Agents
+
+## Connect
+- 📫 [alonso.pe03@gmail.com](mailto:alonso.pe03@gmail.com)
+- 💼 [linkedin.com/in/aperalta03](https://www.linkedin.com/in/aperalta03)
+- 🌐 [alonsoperalta.com](https://alonsoperalta.com)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aperalta03&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aperalta03&layout=compact&theme=radical)
-
+![Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperalta03&show_icons=true&hide_border=true&bg_color=0c0c0d&text_color=ebe8e1&title_color=ebe8e1&icon_color=7a1c2c)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aperalta03&layout=compact&hide_border=true&bg_color=0c0c0d&text_color=ebe8e1&title_color=ebe8e1)
