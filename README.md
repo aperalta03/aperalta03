@@ -1,29 +1,29 @@
 # Hi, I'm Alonso Peralta
 
-AI Software Engineer. AI got me because of impact: pick the right tool and a two-to-three-week document workflow drops to ten minutes. I've watched it happen. The work I keep coming back to is the kind that moves real numbers for real people.
+Lead AI Engineer. I build tools that turn slow document work into something you can ship the same day, then I stay with them after they go live.
 
 ## Now
-- Lead AI Engineer at a stealth startup. I own the product AI roadmap and ship the services behind it.
-- Wrapping a B.S. in Computer Engineering at Texas A&M (May 2026). M.S. in Computer Science starts Fall 2026.
-- Based in Texas. Born in Peru, two years in Alaska before college, now in Aggieland.
+- Lead AI Engineer at a stealth startup. I own the AI roadmap for sales and marketing, and the services behind the flagship.
+- M.S. Computer Science at Texas A&M (expected Dec 2027). B.S. Computer Engineering, Math Minor, May 2026.
+- Based in Texas. Born in Peru, two years in Alaska before college.
 
 ## Background
-- **Stealth Startup** · Shipped ExtractAI, an OCR + RAG document extraction service. Brought a two-to-three-week workflow down to ten minutes at 98% accuracy on Safety Datasheets. Promoted from AI Solutions Specialist to AI Software Engineer to Lead AI Engineer over sixteen months.
-- **Aggies Create × NeuroX1** · Co-led MedGet, a drug-candidate retrieval platform. Hybrid retrieval and RAG through LangChain. 5x faster data access, 62% lower cost per employee hour. Sponsor took it into production.
-- **OpenHub (Belgium)** · Sole developer on a 3D-printer-farm platform that 7x'd the team's parallel print capacity. React, Node, Python, Firebase.
-- **Headstarter Fellowship** · Four full-stack AI projects in three months. Mentors from Google, Meta, Apple, DoorDash. Founders and researchers from Stanford and Berkeley.
+- **Stealth Startup** · ExtractAI turns messy PDFs into structured data at 98%+ SDS accuracy, $30 to $50 per 1,000 pages (was $2,000 to $3,000). Shipped v1 to a few thousand in MRR; now productionizing it for the flagship. Also took SDS Caller, a RAG voice agent for emergency responders, from POC to MVP. Specialist → Engineer → Lead.
+- **NeuroX1** · Co-led MedGet for drug-candidate research. Hybrid retrieval and RAG. 5x faster access, 62% lower cost per employee hour. Sponsor kept it.
+- **OpenHub** · Sole developer on PrinterHub, a remote 3D-printer-farm platform. 7x more printers in parallel. React, Node, Python, Firebase.
+- **Headstarter Fellowship** · Five full-stack AI projects in three months, one not public. Mentors from Google, Meta, Apple, DoorDash.
 
 ## Featured Projects
-- [**LLMRouter**](https://github.com/shantanold/LLMRouter) · Deep RL system that picks the right LLM per prompt, balancing cost and capability. Five agents (DQN, PPO, LinUCB, PickLLM, Greedy) trained on RouterBench, with feature-based and embedding-based variants and a Streamlit evaluation dashboard. CSCE 642 project, co-authored paper.
-- [**Wavelet for Hearts**](https://github.com/aperalta03/wavelets-for-hearts) · Wavelet-based singularity detection in ECG signals. Five wavelets across CWT and DWT pipelines, best F1 0.907 on QRS detection against the MIT-BIH Arrhythmia Database. Co-authored MATH 414 paper.
-- [**PrinterHub**](https://github.com/aperalta03/3D-Printer-Farm) · Full-stack platform to remotely manage a 3D-printer farm in Belgium. Took the team from a handful of printers in parallel to seven times that. React, Node, Python, Firebase.
+- [**LLMRouter**](https://github.com/shantanold/LLMRouter) · Deep RL that picks an LLM per prompt. Five agents on RouterBench. CSCE 642, paper.
+- [**Wavelet for Hearts**](https://github.com/aperalta03/wavelets-for-hearts) · ECG singularity detection. Best F1 0.907 on MIT-BIH. MATH 414 paper.
+- [**T.R.A.C.K.**](https://github.com/evilspoon13/track-web) · On-car telemetry and pit-side app for Texas A&M Formula SAE Electric. React, Firebase, WebSockets. CSCE 483.
 
-More work, papers, and writing live on [alonsoperalta.com](https://alonsoperalta.com).
+More on [alonsoperalta.com](https://alonsoperalta.com).
 
 ## Stack
-- **Languages** · JavaScript · TypeScript · Python · C++ · SQL · Ruby · Cypher
+- **Languages** · Python · TypeScript · JavaScript · Bash · C++ · SQL · Ruby · Cypher
 - **Cloud / DevOps** · GCP · AWS · Docker · Terraform · CI/CD
-- **AI / ML** · LangChain · LangGraph · Pinecone · RAG · OCR · Agents
+- **AI / ML** · LangChain · LangGraph · pgvector · RAG · Fine-tuning · Voice
 
 ## Connect
 - 📫 [alonso.pe03@gmail.com](mailto:alonso.pe03@gmail.com)
