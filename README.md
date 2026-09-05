@@ -1,6 +1,6 @@
 # Hi, I'm Alonso Peralta
 
-Lead AI Engineer. I build tools that turn slow document work into something you can ship the same day, then I stay with them after they go live.
+Lead AI Engineer. I build tools that turn slow legacy workflows into something you can ship the same day, then I stay with them after they go live.
 
 ## Now
 - Lead AI Engineer at a stealth startup. I own the AI roadmap for sales and marketing, and the services behind the flagship.
